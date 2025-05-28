@@ -3,10 +3,17 @@
 ## Slides
 
 - [强化学习引入](slides/1.强化学习引入.pdf)
-- [蒙特卡洛方法与时序差分算法](slides/强化学习-合%281%29.pdf)
+- [蒙特卡洛与时序差分](slides/强化学习-合%281%29.pdf)
 - [DQN](slides/DQN.pdf)
-- [Deepseek-R1](slides/deepseek-r1.pdf)
+- [Deepseek-R1 & DAPO](slides/deepseek-r1.pdf)
 - [过程奖励模型PRM](slides/20250521-PRM%281%29.pdf)
+
+以下待补充
+
+- 强化学习面临的挑战
+- 策略梯度 & REINFORCE
+- RLHF & RLAIF
+- DPO, GRPO
 
 ## Books
 
@@ -20,16 +27,25 @@
 - [InstructGPT：Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
 - [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267)
 
-#### Deepseek-R1 & Process Reward Model
+#### Deepseek-R1
 
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+
+#### Process Reward Model
+
 - [Let's Verify Step by Step](https://arxiv.org/pdf/2305.20050)
 
 #### DPO
 
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
 
-#### GRPO & ORPO
+#### GRPO
 
 - [(GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
+- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)
 - [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691)
+
+#### Post-training & Test-Time Scaling Law
+
+- [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314v1)
+- [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393)
