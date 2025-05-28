@@ -1,14 +1,6 @@
-# Papers
+# Reinforcement Learning
 
-[网址](https://sillydaibo.github.io/melon-test)
-
-## 项目
-
-[强化学习](Reinforcement Learning/index.md)
-
-## Reinforcement Learning
-
-### PPTs
+## PPTs
 
 - [强化学习引入](Reinforcement Learning/slides/1.强化学习引入.pdf)
 - [蒙特卡洛方法与时序差分算法](Reinforcement Learning/slides/强化学习-合%281%29.pdf)
