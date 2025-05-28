@@ -9,12 +9,7 @@
 - [过程奖励模型PRM](slides/20250521-PRM%281%29.pdf)
 - [强化学习面临的挑战](slides/Taxonomy_of_RL_Algorithms.pdf)
 - [DDPG](slides/Pre_4_9.pdf)
-
-以下待补充
-
-- 策略梯度 & REINFORCE
-- RLHF & RLAIF
-- DPO, GRPO
+- [RLHF](slides/InstructGPT.pdf)
 
 ## Books
 
