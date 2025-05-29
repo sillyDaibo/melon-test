@@ -10,6 +10,7 @@
 - [强化学习面临的挑战](slides/Taxonomy_of_RL_Algorithms.pdf)
 - [DDPG](slides/Pre_4_9.pdf)
 - [RLHF](slides/InstructGPT.pdf)
+- [GRPO](slides/20250430 GRPO.pdf)
 
 ## Books
 
