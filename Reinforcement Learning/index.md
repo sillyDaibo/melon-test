@@ -50,6 +50,9 @@ Optional:
 - [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971)(DDPG)
 - [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290)(SAC)
 - [Mirror Descent Policy Optimization](https://arxiv.org/abs/2005.09814)(MDPO)
+- [Revisiting Group Relative Policy Optimization: Insights into On-Policy and Off-Policy Training](https://arxiv.org/pdf/2505.22257v1)(Off-Policy GRPO)
+- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)(tuned GRPO)
+- [What is the Alignment Objective of GRPO?](https://arxiv.org/pdf/2502.18548)
 
 ### LLM Alignment Techniques
 
@@ -117,7 +120,13 @@ Parallel Scaling:
 - [Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification](https://arxiv.org/pdf/2502.01839)
 - [ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning](https://arxiv.org/pdf/2410.02052)
 
-#### Reward-Model-Free RL
+#### Reward-Model-Based RL Algorithms
+
+- [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/pdf/2310.10505)
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)(GRPO)
+- [Reinforce++: A simple and efficient approach for aligning large language models](https://arxiv.org/pdf/2501.03262v1)
+
+#### Reward-Model-Free RL Algorithms (mostly about DPO, thus optional)
 
 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/pdf/2412.16145)
 - [Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization](https://arxiv.org/pdf/2412.18279)
@@ -125,14 +134,6 @@ Parallel Scaling:
 - [Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM’s Reasoning Capability](https://arxiv.org/pdf/2411.19943)
 - [Focused-DPO: Enhancing Code Generation Through Focused Preference Optimization on Error-Prone Points](https://arxiv.org/pdf/2502.11475)
 - [Thinking Preference Optimization](https://arxiv.org/pdf/2502.13173)
-
-#### Reward-Model-Based RL
-
-- [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/pdf/2310.10505)
-- [Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance](https://arxiv.org/pdf/2502.16944)
-- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)(GRPO)
-- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)
-- [Reinforce++: A simple and efficient approach for aligning large language models](https://arxiv.org/pdf/2501.03262v1)
 
 ### Appendix: Math Provers
 
