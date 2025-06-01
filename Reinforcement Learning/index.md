@@ -21,8 +21,13 @@
 
 ### Surveys
 
-- (latest) [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/pdf/2503.09567)
+Recommended:
+
+- [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/pdf/2503.09567)
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/pdf/2412.10400)
+
+Optional:
+
 - [A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges](https://arxiv.org/pdf/2412.11936)
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://aclanthology.org/2024.emnlp-main.498.pdf)
 - [A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More](https://arxiv.org/pdf/2407.16216)
@@ -96,6 +101,8 @@ Read the [survey](https://arxiv.org/pdf/2503.09567) for a lot more information.
 - [Process Reinforcement Through Implicit Rewards](https://arxiv.org/pdf/2502.01456)
 
 #### Test-Time Scaling
+
+Analysis:
 
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314v1)
 - [ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model](https://arxiv.org/pdf/2502.03325)
